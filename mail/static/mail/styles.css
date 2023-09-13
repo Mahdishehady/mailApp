@@ -1,0 +1,10 @@
+textarea {
+    min-height: 400px;
+}
+
+.unread{
+    background-color: aliceblue;
+}
+.read{
+    background-color: gray;
+}
