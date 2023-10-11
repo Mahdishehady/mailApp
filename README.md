@@ -1,14 +1,26 @@
 # Mail App
 
 A simple and efficient mail app that allows users to send emails, schedule meetings, and more.
+## Table of Contents
 
+- [Features](#features)
+- 
 ## Features
 
 - Compose and Send Emails
 - Schedule Meetings and Appointments
 - View and Manage Received Emails
 - User-Friendly Interface
+## Technologies Used
 
+- Python
+- Django
+- HTML/CSS
+- JavaScript
+- Bootstrap 
+- SQLite3
+
+- 
 ## Getting Started
 
 ### Prerequisites
