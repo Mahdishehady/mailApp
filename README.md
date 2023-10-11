@@ -4,7 +4,7 @@ A simple and efficient mail app that allows users to send emails, schedule meeti
 ## Table of Contents
 
 - [Features](#features)
-- 
+- [Technologies Used](#Technologies Used)
 ## Features
 
 - Compose and Send Emails
