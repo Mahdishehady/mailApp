@@ -4,14 +4,14 @@ A simple and efficient mail app that allows users to send emails, schedule meeti
 ## Table of Contents
 
 - [Features](#features)
-- [Technologies Used](#Technologies Used)
+- [TechnologiesUsed](#TechnologiesUsed)
 ## Features
 
 - Compose and Send Emails
 - Schedule Meetings and Appointments
 - View and Manage Received Emails
 - User-Friendly Interface
-## Technologies Used
+## TechnologiesUsed
 
 - Python
 - Django
