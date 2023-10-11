@@ -19,8 +19,7 @@ A simple and efficient mail app that allows users to send emails, schedule meeti
 - JavaScript
 - Bootstrap 
 - SQLite3
-
-- 
+  
 ## Getting Started
 
 ### Prerequisites
